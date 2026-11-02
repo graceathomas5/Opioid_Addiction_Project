@@ -13,7 +13,7 @@ Relevant columns:
 - `year`: year of the data (added by me)
 
 ## Methodology
-(https://github.com/graceathomas5/Opioid_Addiction_Project/blob/main/Assignment1.ipynb)  is the analysis.
+(https://github.com/graceathomas5/Opioid_Addiction_Project/blob/main/notebooks/Assignment1.ipynb)  is the analysis.
 
 ### Part 1: Scraping
 Used the CMS API to download every row where the generic drug name contains "Buprenorphine," saving one CSV per year (394,269 rows in total).
