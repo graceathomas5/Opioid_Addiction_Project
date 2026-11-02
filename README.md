@@ -13,7 +13,7 @@ Relevant columns:
 - `year`: year of the data (added by me)
 
 ## Methodology
-[`notebooks/Assignment1.ipynb`](notebooks/Assignment1.ipynb) is the analysis.
+(https://github.com/graceathomas5/Opioid_Addiction_Project/blob/main/Assignment1.ipynb)  is the analysis.
 
 ### Part 1: Scraping
 Used the CMS API to download every row where the generic drug name contains "Buprenorphine," saving one CSV per year (394,269 rows in total).
@@ -30,7 +30,6 @@ The data covers Medicare Part D only. It excludes prescribers with fewer than 11
 ## Outputs
 The notebook produces a spreadsheet of prescriptions and shares by prescriber group and year: (output/np_pa_prescriptions_by_year.csv).
 
-
 ## Running the analysis yourself
 You can run the analysis yourself. To do so, you'll need the following installed on your computer:
 
@@ -38,7 +37,7 @@ Python 3
 The Python libraries specified in requirements.txt
 
 ## Licensing
-Code is under the MIT License. The output data file is under CC BY 4.0. Files in `data/` are in the public domain.
+Code is under the MIT License. The output data file is under CC BY 4.0. 
 
 ## Feedback / Questions?
 Grace Thomas, grace.thomas02@journalism.cuny.edu
